@@ -1,8 +1,11 @@
 
 # Simple User
 Description: A simple interface to view user data built with Next.js
+
 Created by: Cody Fisher
+
 Release Date: 2024-06-17
+
 NPM Version: v20.11.1
 
 
