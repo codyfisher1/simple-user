@@ -39,7 +39,7 @@ const UserPage = () =>{
     },[searchParams])
 
     return (
-        <UserCard user_name={user?.user_name || ""} user_id={user?.user_id || ""} user_email={user?.user_email|| ""} links={user?.links||[]}/>
+        <UserCard user_id={user?.user_id || ""} user_email={user?.user_email|| ""} links={user?.links||[]}/>
     )
 }
 
